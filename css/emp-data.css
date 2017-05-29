@@ -1,0 +1,7 @@
+/* CSS Document */
+.edit-icon{
+	visibility: hidden;
+}
+.edit-row-icon:hover .edit-icon{
+	visibility: visible;
+}
